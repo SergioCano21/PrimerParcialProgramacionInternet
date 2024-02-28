@@ -1,0 +1,48 @@
+.altoNavbar{
+    height: 120px !important;
+}
+.altoLogo{
+    height: 110px !important;
+}
+.espacioNavbar{
+    margin-right: 50px !important;
+}
+.iconFacebook{
+    color: white;
+    font-size: 30px;
+}
+.navbar-brand img, .navbar-brand h3 {
+    display: inline-block;
+    vertical-align: middle;
+}
+.imagenes{
+    height: 300px;
+    width: 420px;
+}
+.tipoLetra{
+    font-family: Arial, Helvetica, sans-serif !important;
+}
+.maxLargoTabla{
+    max-width: 600px;
+}
+.letraPiePage{
+    font-size: 1rem;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: var(--bs-heading-color);
+}
+.imagenPromociones{
+    height: 600px;
+    width: 1000px;
+}
+.imagenModal{
+    height: 350px;
+    width: 500px;
+}
+.moverCheckbox{
+    padding-left: 72px;
+}
+
+  
